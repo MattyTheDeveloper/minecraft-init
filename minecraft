@@ -13,7 +13,7 @@
 # Description:    Init script for minecraft/bukkit server, with rolling logs and use of ramdisk for less lag.
 ### END INIT INFO
 
-# Created by Ahtenus
+# Created by Ahtenus & his friends.
 
 # Based on http://www.minecraftwiki.net/wiki/Server_startup_script
 # Support for multiworld by Benni-chan
